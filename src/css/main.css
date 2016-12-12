@@ -1,36 +1,37 @@
-.body {
-    margin: 0px;
-    border: 0px;
-}
+/*.body {*/
+    /*margin: 0px;*/
+    /*border: 0px;*/
+/*}*/
 
-.header {
-    margin: 0 auto;
-}
+/*.header {*/
+    /*margin: 0 auto;*/
+/*}*/
 
-.leftheader {
-    border: 1px solid darkcyan;
-    float: left;
-}
+/*.leftheader {*/
+    /*border: 1px solid darkcyan;*/
+    /*float: left;*/
+/*}*/
 
-.rightheader {
-    height: 100%;
-    margin: auto;
-    border: 1px solid darkcyan;
-    float: right;
-}
+/*.rightheader {*/
+    /*height: 100%;*/
+    /*margin: auto;*/
+    /*border: 1px solid darkcyan;*/
+    /*float: right;*/
+/*}*/
 
-.rightheader > ul > li {
-    list-style-type: none;
-    float: right;
-    margin: 10px;
-}
+/*.rightheader > ul > li {*/
+    /*list-style-type: none;*/
+    /*float: right;*/
+    /*margin: 10px;*/
+/*}*/
 
-.langflag {
-    width: 30px;
-    height: 20px;
-}
+/*.langflag {*/
+    /*width: 30px;*/
+    /*height: 20px;*/
+/*}*/
 
 /* Navbar goes here*/
+/*
 .navbar {
     border-radius: 0px !important;
     margin-bottom: 0px !important;
@@ -51,8 +52,9 @@ nav {
     border: 1px solid aqua;
     width: 100%;
 }
+*/
 
-/* Carousel style goes here */
+/* TODO Carousel style goes here */
 .customcarousel {
     padding: 0px;
     height: 400px;
@@ -66,7 +68,7 @@ nav {
 
 /*  CS Content Goes HERE */
 .contentwrapper {
-    border: 1px solid red;
+    /*border: 1px solid red;*/
 }
 
 .contentwrapper > .row {

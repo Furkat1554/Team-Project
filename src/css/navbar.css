@@ -1,0 +1,66 @@
+/*  Header Style goes here  */
+.body {
+    margin: 0px;
+    border: 0px;
+}
+
+.header {
+    position: relative;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #100226;
+}
+
+.leftheader {
+    /*border: 1px solid darkcyan;*/
+    float: left;
+}
+
+.rightheader {
+    align-items: center;
+    font-size: 16px;
+    margin: auto;
+    /*border: 1px solid darkcyan;*/
+    float: right;
+    vertical-align: middle!important;
+}
+
+.rightheader > ul > li {
+    cursor: pointer;
+    list-style-type: none;
+    float: right;
+    margin: 10px;
+}
+
+.rightheader > ul > li > a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.langflag {
+    width: 30px;
+    height: 20px;
+}
+
+/* Navbar goes here*/
+.navbar {
+    border-radius: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.navbar .navbar-nav {
+    margin: auto;
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+nav {
+    border: 1px solid aqua;
+    width: 100%;
+    font-size: 16px;
+}
