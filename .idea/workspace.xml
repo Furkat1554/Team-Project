@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09d456f-8ea0-4a0e-909f-5e78c14f051e" name="Default" comment="fixed some bags&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/AigulTurdugulova.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/AsiaAbdyldaeva.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/BedelbaiMamadiev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/DaniyarSatybaldiev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/DilshadAnarbaev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/JyldyzbekJakshylykov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/KanybekDuisheev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/MarlenAkimaliev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/MusaAbdujabbarov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/SanjarErdolatov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/UulbubuKutmanova.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/image_011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/image_012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/image_013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/image_014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/image_015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/image_016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/staff/nurlanShaidullaev.jpg" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/facultyandadvisors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facultyadvisors.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/navbar.css" afterPath="$PROJECT_DIR$/src/css/navbar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <list id="87c8addd-e31f-462b-9a06-15649c88c68d" name="Failed commit: Default" comment="fixed some bags&#10;" />
     <ignored path="IaauWebProject.iws" />
@@ -25,15 +47,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
+      <file leaf-file-name="facultyadvisors.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/facultyadvisors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+            <state relative-caret-position="498">
+              <caret line="288" column="18" selection-start-line="288" selection-start-column="18" selection-end-line="288" selection-end-column="18" />
               <folding>
-                <marker date="1482312331464" expanded="true" signature="1073:1226" ph="..." />
-                <marker date="1482312331464" expanded="true" signature="1166:1194" ph="..." />
+                <marker date="1482333412400" expanded="true" signature="1146:1299" ph="..." />
+                <marker date="1482333412400" expanded="true" signature="1239:1267" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facultyandadvisors.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/facultyandadvisors.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,11 +89,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/text.tx" />
         <option value="$PROJECT_DIR$/src/template.html" />
-        <option value="$PROJECT_DIR$/src/css/navbar.css" />
         <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/src/css/footer.css" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/footerTemplate.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/css/navbar.css" />
+        <option value="$PROJECT_DIR$/src/css/facultyandadvisors.css" />
+        <option value="$PROJECT_DIR$/src/facultyadvisors.html" />
       </list>
     </option>
   </component>
@@ -109,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,9 +175,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IaauWebProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IaauWebProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IaauWebProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IaauWebProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,8 +231,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\omurbek\WebstormProjects\IaauWebProject\src" />
+      <recent name="C:\Users\omurbek\WebstormProjects\IaauWebProject\src\img\staff" />
       <recent name="C:\Users\omurbek\WebstormProjects\IaauWebProject\src\css" />
+      <recent name="C:\Users\omurbek\WebstormProjects\IaauWebProject\src" />
       <recent name="C:\Users\omurbek\WebstormProjects\IaauWebProject" />
     </key>
   </component>
@@ -252,24 +327,25 @@
       <workItem from="1481514247555" duration="658000" />
       <workItem from="1481553499641" duration="4926000" />
       <workItem from="1482304285185" duration="5418000" />
+      <workItem from="1482315055203" duration="5216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20853000" />
+    <option name="totallyTimeSpent" value="26069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12780268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17264573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5692308" sideWeight="0.50298953" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6923077" sideWeight="0.49701047" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43686005" sideWeight="0.49701047" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -307,8 +383,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1482312331464" expanded="true" signature="1073:1226" ph="..." />
-            <marker date="1482312331464" expanded="true" signature="1166:1194" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1073:1226" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1166:1194" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482328804383" expanded="true" signature="1073:1226" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1166:1194" ph="..." />
           </folding>
         </state>
       </provider>
@@ -318,8 +405,8 @@
         <state relative-caret-position="4386">
           <caret line="258" column="48" selection-start-line="258" selection-start-column="48" selection-end-line="258" selection-end-column="48" />
           <folding>
-            <marker date="1482312331464" expanded="true" signature="1073:1226" ph="..." />
-            <marker date="1482312331464" expanded="true" signature="1166:1194" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1073:1226" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1166:1194" ph="..." />
           </folding>
         </state>
       </provider>
@@ -337,8 +424,8 @@
         <state relative-caret-position="4386">
           <caret line="258" column="48" selection-start-line="258" selection-start-column="48" selection-end-line="258" selection-end-column="48" />
           <folding>
-            <marker date="1482312331464" expanded="true" signature="1073:1226" ph="..." />
-            <marker date="1482312331464" expanded="true" signature="1166:1194" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1073:1226" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1166:1194" ph="..." />
           </folding>
         </state>
       </provider>
@@ -368,14 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/navbar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-302">
-          <caret line="23" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -395,25 +474,144 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+        <state relative-caret-position="200">
+          <caret line="128" column="58" selection-start-line="128" selection-start-column="58" selection-end-line="128" selection-end-column="58" />
           <folding>
-            <marker date="1482312331464" expanded="true" signature="1073:1226" ph="..." />
-            <marker date="1482312331464" expanded="true" signature="1166:1194" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1073:1226" ph="..." />
+            <marker date="1482328804383" expanded="true" signature="1166:1194" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/AsiaAbdyldaeva.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/DilshadAnarbaev.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/nurlanShaidullaev.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/MarlenAkimaliev.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/DaniyarSatybaldiev.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/JyldyzbekJakshylykov.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/SanjarErdolatov.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/UulbubuKutmanova.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/AigulTurdugulova.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/image_016.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/image_015.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/image_014.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/image_013.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/image_012.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/image_011.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/MusaAbdujabbarov.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/staff/KanybekDuisheev.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/facultyandadvisors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facultyadvisors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="288" column="18" selection-start-line="288" selection-start-column="18" selection-end-line="288" selection-end-column="18" />
+          <folding>
+            <marker date="1482333412400" expanded="true" signature="1146:1299" ph="..." />
+            <marker date="1482333412400" expanded="true" signature="1239:1267" ph="..." />
           </folding>
         </state>
       </provider>
