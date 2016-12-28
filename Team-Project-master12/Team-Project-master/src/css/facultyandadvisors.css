@@ -1,0 +1,29 @@
+
+#facultyandadvisors {
+    margin: 20px auto;
+}
+
+.department_staff {
+    overflow: hidden;
+    padding: 5px;
+}
+
+.department_staff > .row {
+    border: 2px solid cadetblue;
+    background-color: rgb(237, 240, 242);
+    margin: auto;
+    padding-top:10px;
+    height: 180px!important;
+    vertical-align: middle!important;
+}
+
+.department_info {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.departmentTitle, .departmentAdvisor {
+    font-weight: bold;
+}
+
+
