@@ -1,0 +1,80 @@
+/* TODO Carousel style goes here */
+.customcarousel {
+    padding: 0px;
+    height: 400px;
+    /*border: 1px solid red;*/
+}
+
+.item > img {
+    width: 100%;
+    height: 400px !important;
+}
+
+/*  CS Content Goes HERE */
+.contentwrapper {
+    /*border: 1px solid red;*/
+}
+
+.contentwrapper > .row {
+    /*padding-top: 10px;*/
+    padding: 10px;
+}
+
+.depnewstitle {
+    text-align: center;
+}
+
+.depcontent {
+    border-left: 3px solid #ccc;
+    border-right: 3px solid #ccc;
+}
+
+.depcontent > article > h3 {
+    text-align: center;
+    color: brown;
+    /*text-decoration: underline;*/
+    /*margin-bottom: 10px;*/
+}
+
+.depquicklinkstitle, .depnewstitle {
+    text-align: center;
+    color: brown;
+    /*border-bottom: 2px solid brown;*/
+    text-decoration: underline;
+    margin-bottom: 10px;
+    /*text-decoration-color: brown;*/
+    /*margin: auto;*/
+}
+
+article.news {
+    margin-top: 30px;
+}
+
+.newsdate {
+    color: brown;
+}
+
+.quicklinksdiv {
+    margin: 5px;
+}
+.quicklinksdiv>p{
+    color: brown;
+    text-align: center;
+}
+.ul_quick_other_links, .ul_quick_department_links{
+    padding: 10px;
+    margin-top: 10px;
+}
+.ul_quick_other_links > li, .ul_quick_department_links > li {
+    list-style-type: none;
+}
+
+.ul_quick_other_links > li > a, .ul_quick_department_links > li > a {
+    color: brown;
+    font-size: 16px;
+}
+
+.ul_quick_other_links > li > a:hover, .ul_quick_department_links > li > a:hover {
+    text-decoration: none;
+    color: black;
+}

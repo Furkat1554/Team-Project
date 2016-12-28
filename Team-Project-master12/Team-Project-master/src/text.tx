@@ -1,0 +1,81 @@
+<div class="container-fluid commonnavbar">
+        <nav class="navbar navbar-inverse">
+            <!--<div class="container-fluid">-->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <!--<a class="navbar-brand" href="#">WebSiteName</a>-->
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">Home</a></li>
+                        <li class="dropdown admission">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Admission
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Master Degree</a></li>
+                                <li><a href="#">Bachelor Degree</a></li>
+                                <li><a href="#">College</a></li>
+                                <li><a href="#">Tution Fees</a></li>
+                                <li><a href="#">Exchange Program</a></li>
+                                <li><a href="#">Foreign Students</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown academics">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Academics
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Master Degree</a></li>
+                                <li><a href="#">Bachelor Degree</a></li>
+                                <li><a href="#">College</a></li>
+                                <li><a href="#">Tution Fees</a></li>
+                                <li><a href="#">Exchange Program</a></li>
+                                <li><a href="#">Foreign Students</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown facultyandresearch">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Faculty & Research
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Master Degree</a></li>
+                                <li><a href="#">Bachelor Degree</a></li>
+                                <li><a href="#">College</a></li>
+                                <li><a href="#">Tution Fees</a></li>
+                                <li><a href="#">Exchange Program</a></li>
+                                <li><a href="#">Foreign Students</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown newsandevents">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">News & Events
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Master Degree</a></li>
+                                <li><a href="#">Bachelor Degree</a></li>
+                                <li><a href="#">College</a></li>
+                                <li><a href="#">Tution Fees</a></li>
+                                <li><a href="#">Exchange Program</a></li>
+                                <li><a href="#">Foreign Students</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown officesandservices">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Offices & Services
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Master Degree</a></li>
+                                <li><a href="#">Bachelor Degree</a></li>
+                                <li><a href="#">College</a></li>
+                                <li><a href="#">Tution Fees</a></li>
+                                <li><a href="#">Exchange Program</a></li>
+                                <li><a href="#">Foreign Students</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">People</a></li>
+                        <li><a href="#">Calendar</a></li>
+                    </ul>
+                </div>
+            <!--</div>-->
+        </nav>
+    </div>

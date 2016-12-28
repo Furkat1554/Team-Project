@@ -78,3 +78,30 @@ article.news {
     text-decoration: none;
     color: black;
 }
+/*==============*/
+.big-heading {
+    font-size:60px; 
+    line-height:70px;
+}
+
+.mar-bot {
+    margin-bottom:20px;
+}
+
+.mar-top60 {
+    margin-top:60px;
+}
+
+.row-fluid p{
+    line-height:24px;   
+    text-shadow: 0 1px 0 #ffffff;
+}
+.exchange{
+    text-align: center;
+    color: #280A56;
+    /*border-bottom: 2px solid brown;*/
+    text-decoration: underline;
+    margin-bottom: 10px;
+    /*text-decoration-color: brown;*/
+    /*margin: auto;*/
+}
